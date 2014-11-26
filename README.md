@@ -1,4 +1,3 @@
-startup-studio
-==============
+# Startup Studio
 
-The Startup Studio program at Cornell Tech (CS 5999)
+Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.
