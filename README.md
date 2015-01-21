@@ -1,8 +1,8 @@
 # Startup Studio
 
-### Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.
+**Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.**
 
-### Schedule of Sessions:  
+**Schedule of Sessions:**  
 
 * [Introduction](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#january-27-introduction) (Jan 27)  
 * [Be Great At Everything You Do](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-3-be-great-at-everything-you-do) (Feb 3)  
