@@ -4,7 +4,7 @@ Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio
 
 Schedule of Sessions:  
 
-Introduction (Jan 27)  
+[Introduction](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#january-27-introduction) (Jan 27)  
 [Be Great At Everything You Do] (https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february) (Feb 3)  
 How To's (Feb 10)  
 Talking to Users (Feb 24)  
