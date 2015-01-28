@@ -5,7 +5,7 @@
 **Schedule of Sessions:**  
 
 * [Introduction](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#feb-3-introduction) (Feb 3)  
-* [Be Great At Everything You Do](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-3-be-great-at-everything-you-do) (Feb 10)  
+* [Be Great At Everything You Do](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-10-be-great-at-everything-you-do) (Feb 10)  
 * [How To's](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-10-how-tos) (Feb 24)  
 * [Startup Studio Sprint #1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-26-27-startup-studio-sprint) (Feb 26-27)  
 * * [Talking to Users](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-24-talking-to-users) (Mar 3)  
