@@ -17,5 +17,5 @@
 * [Raising Money - Part 2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-14-raising-money-part-2) (April 14)  
 * [Putting it All Together](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-21-putting-it-all-together) (April 21)  
 * [Demo Day Practice](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-28-demo-day-practice) (April 28)  
-* [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-30-may-1-startup-studio-sprint--internal-demo-day) (April 30-May 1)  
+* [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-30-may-1-startup-studio-sprint--demo-day) (April 30-May 1)  
 * [Review and Wrap Up](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-5-review-and-wrap-up) (May 5)
