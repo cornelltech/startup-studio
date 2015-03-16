@@ -12,7 +12,7 @@
 * [Building a Brand](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-10-building-a-brand) (March 10)  
 * [Culture and Hiring](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-17-culture-and-hiring) (March 17)  
 * [Studio Time](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-24-studio-time) (March 24)  
-* [Startup Studio Sprint #2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-26-27-startup-studio-sprint) (March 26-27)  
+* [Startup Studio Sprint #2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-26-27-studio-sprint) (March 26-27)  
 * [Raising Money - Part 1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-7-raising-money-part-1) (April 7)  
 * [Raising Money - Part 2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-14-raising-money-part-2) (April 14)  
 * [Putting it All Together](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-21-putting-it-all-together) (April 21)  
