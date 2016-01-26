@@ -2,8 +2,6 @@
 
 **Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.**
 
-**Startup Studio Sessions & Syllabus (Tuesdays 4pm-7pm) 
-
 **Schedule of Sessions:**
 
 * Introduction (Feb 2)
