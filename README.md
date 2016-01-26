@@ -2,7 +2,7 @@
 
 **Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.**
 
-**Startup Studio Sessions & Syllabus ****(Tuesdays 4pm-7pm)  **
+**Startup Studio Sessions & Syllabus (Tuesdays 4pm-7pm) 
 
 **Schedule of Sessions:**
 
@@ -10,7 +10,7 @@
 
 * Be Great at Everything You Do (Feb 9)
 
-* How Toâ€™s (Feb 24)
+* How To's (Feb 24)
 
 * Startup Studio Sprint #1 (Feb 25-26)
 
