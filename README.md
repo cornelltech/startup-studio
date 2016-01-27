@@ -4,7 +4,7 @@
 
 **Schedule of Sessions:**
 
-* Introduction (Feb 2)
+* [Introduction](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#feb-2-introduction-pitch-1) (Feb 2)
 
 * Be Great at Everything You Do (Feb 9)
 
