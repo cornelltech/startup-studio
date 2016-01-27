@@ -21,3 +21,10 @@
 * [Go Be Great](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-3-go-be-great) (May 3)
 * [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-5-6-studio-sprint3) (May 5-6)
 * [Final Presentations](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-10-final-presentations) (May 10)
+
+
+Class structure (default, with a few exceptions):
+
+* 4p–5p, Group (60m)
+* 4p–5p, Scrum (60m)
+* 6p–7p, Crit/Studio (60m)
