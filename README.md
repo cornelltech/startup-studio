@@ -36,4 +36,4 @@
 
 * [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-5-6-studio-sprint3) (May 5-6)
 
-* Final Presentations (May 10)
+* [Final Presentations](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-10-final-presentations) (May 10)
