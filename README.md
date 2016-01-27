@@ -28,7 +28,7 @@
 
 * [Raising Money](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-19-raising-money) (April 19)
 
-* [Presentations Skills](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-21-presentations-skills) (April 21)*Special Thursday Class*
+* [Presentations Skills](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-21-presentations-skills) (April 21) *Special Thursday Class*
 
 * [Raising Money and Company Building](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-26-raising-money-and-company-building) (April 26)
 
