@@ -27,5 +27,5 @@ In the spring semeter at Cornell Tech, students cofound their own startups, deve
 Class structure (default, with a few exceptions):
 
 * 4p–5p, Group (60m)
-* 4p–5p, Scrum (60m)
+* 5p–6p, Scrum (60m)
 * 6p–7p, Crit/Studio (60m)
