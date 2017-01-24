@@ -3,29 +3,26 @@ In the spring semeter at Cornell Tech, students cofound their own startups, deve
 
 **Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.**
 
-**Schedule of Sessions:**
+**Schedule of Sessions: Tuesdays, 3:15pm-7:00pm**
 
-* [Introduction](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#feb-2-introduction-pitch-1) (Feb 2)
-* [Be Great at Everything You Do](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-9-be-great-at-everything-you-do) (Feb 9)
-* [How To's](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-23-how-tos) (Feb 23)
-* [Startup Studio Sprint #1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-25-26-studio-sprint1) (Feb 25-26)
-* [Building Your Company in NYC](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-1-building-your-company-in-nyc) (March 1)
-* [Presentation Prep](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-8-presentation-prep) (March 8)
-* [Talking to Users](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-15-talking-to-users) (March 15)
-* [Building a Brand](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-22-building-a-brand) (March 22)
-* [Product First: How to Show Off a Great Product](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-5-product-first-how-to-show-off-a-great-product) (April 5)
-* [Startup Studio Sprint #2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-7-8-studio-sprint-2) (April 7-8)
-* [Onboarding](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-12-onboarding) (April 12)
-* [Raising Money](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-19-raising-money) (April 19)
-* [Presentations Skills](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-21-presentations-skills) (April 21) *Special Thursday Class*
-* [Raising Money and Company Building](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-26-raising-money-and-company-building) (April 26)
-* [Go Be Great](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-3-go-be-great) (May 3)
-* [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-5-6-studio-sprint3) (May 5-6)
-* [Final Presentations](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-10-final-presentations) (May 10)
+* [Introduction](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#jan-31-introduction) (Jan 31)
+* [Be Great at Everything You Do](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-7-be-great-at-everything-you-do) (Feb 7)
+* [How To's](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-14-how-tos) (Feb 14)
+* [Startup Studio Sprint #1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-23-24-studio-sprint-1) (Feb 23-24)
+* [Building Your Company in NYC](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#february-28-building-your-company-in-nyc) (Feb 28)
+* [Talking to Users](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-7-talking-to-users) (March 7)
+* [VC Pattern Matching](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-14-vc-pattern-matching) (March 14)
+* [Hot NYC Companies](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-21-hot-nyc-companies) (March 21)
+* [The First 100 Days](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-28-the-first-100-days) (March 28)
+* [Startup Studio Sprint #2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#march-30-31-studio-sprint-2) (March 30-31)
+* [Building a Brand](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-11-building-a-brand) (April 11)
+* [Raising Money (VCs)](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-18-raising-money-vcs) (April 18)
+* [Raising Money (Entrepreneurs)](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-25-raising-money-entrepreneurs) (April 25)
+* [Go Be Great](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-2-go-be-great) (May 2)
+* [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-4-5-studio-sprint-3) (May 4-5)
+* [Final Presentations](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-9-final-presentations) (May 9)
+* [Open Studio](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-19-open-studio) (May 19)
 
-
-Class structure (default, with a few exceptions):
-
-* 4p–5p, Group (60m)
-* 5p–6p, Scrum (60m)
-* 6p–7p, Crit/Studio (60m)
+More Info:
+* [Detailed Class Schedule](https://docs.google.com/spreadsheets/d/1CTuMW7BWjKE5NBGzpjjW9VRus5eNHq1EbSyhIJgQ3Rg/edit#gid=0)
+* [Class Links](https://confluence.cornell.edu/pages/viewpage.action?spaceKey=studio&title=Studio+Links+and+Info)
