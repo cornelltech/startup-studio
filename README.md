@@ -24,7 +24,7 @@ Crit Time: 6:10p- 7:25p*
 * [Raising Money (Entrepreneurs)](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#april-24-raising-money-entrepreneurs) (April 24)
 * [Putting it All Together](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-1-putting-it-all-together) (May 1)
 * [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-4-5-studio-sprint-3) (May 3-4)
-* [Go Be Great](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-1-go-be-great) (May 1)
+* [Go Be Great](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-1-go-be-great) (May 8)
 * [Final Presentations](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-9-final-presentations) (May 10)
 * [Open Studio](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-18-open-studio) (May 19)
 
