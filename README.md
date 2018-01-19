@@ -5,7 +5,7 @@ In the spring semester at Cornell Tech, students cofound their own startups, dev
 
 **Schedule of Sessions: Tuesdays, 3:20pm-7:25pm**   
 *Section 1 Lecture: 3:20p- 4:35p  
-Section 2 Lecture: 4:45p- 6:00p  
+Section 2 Lecture: 4:45p- 6:00p  
 Crit Time: 6:10p- 7:25p*
 
 
