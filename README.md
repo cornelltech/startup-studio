@@ -26,7 +26,7 @@ Crit Time: 6:10p- 7:25p*
 * [Startup Studio Sprint #3](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-4-5-studio-sprint-3) (May 3-4)
 * [Go Be Great](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-1-go-be-great) (May 8)
 * [Final Presentations](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-9-final-presentations) (May 10)
-* [Open Studio](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-18-open-studio) (May 19)
+* [Open Studio & Startup Awards](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#may-18-open-studio) (May 19)
 
 More Info:
 * [Detailed Class Schedule](https://docs.google.com/spreadsheets/d/119yDkGQD6fdrJDCy1u8HQId-HYk1smHBG-nbkTWRoak/edit#gid=0)
