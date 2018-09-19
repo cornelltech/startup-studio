@@ -1,5 +1,5 @@
 # Startup Studio
-In the spring semester at Cornell Tech, students cofound their own startups, developing their ideas, products, and pitches, learning to create and tell a compelling startup story, and test their product with users. Startup Studio has many 3 main parts: a group lecture, student led scrums, and crit sessions with external practitioners.
+In the spring semester at Cornell Tech, students co-found their own startups, developing their ideas, products, and pitches, learning to create and tell a compelling startup story, and test their product with users. Startup Studio has many 4 main parts: group lectures & panels, student led scrums, crit sessions with external practitioners, and monthly Sprints.
 
 **Refer to the [Startup Studio wiki](https://github.com/cornelltech/startup-studio/wiki) for more information.**
 
