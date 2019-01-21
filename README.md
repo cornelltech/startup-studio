@@ -6,8 +6,7 @@ In the spring semester at Cornell Tech, students co-found their own startups, de
 **Schedule of Sprint 2019 Sessions: Tuesdays, 3:20pm-7:25pm**   
 *Section 1 Lecture: 3:20p- 4:35p  
 Section 2 Lecture: 4:45p- 6:00p  (and Panel lectures)
-
-Crit Time: 6:10p- 7:25p*
+Section 1 Lecture: 6:10p- 7:25p*
 
 
 * [Welcome to Startup Studio](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#jan-300-introduction) (Jan 22)
