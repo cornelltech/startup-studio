@@ -29,5 +29,4 @@ Crit: 6:10p- 7:25p*
 
 More Info:
 * [Grading Policies](https://github.com/cornelltech/startup-studio/wiki/Grading)
-* [Detailed Class Schedule](https://docs.google.com/spreadsheets/d/119yDkGQD6fdrJDCy1u8HQId-HYk1smHBG-nbkTWRoak/edit#gid=0)
 * [Class Links](https://confluence.cornell.edu/pages/viewpage.action?spaceKey=studio&title=Studio+Links+and+Info)
