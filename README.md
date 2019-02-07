@@ -16,7 +16,7 @@ Crit: 6:10p- 7:25p*
 * [Startup Studio Sprint #1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#feb-13-14-sprint-1) (Feb 14-15)
 * [Talking to Users](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#219-talking-to-users) (Feb 19)
 * [VC Pattern Matching](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#35-vc-pattern-matching) (Mar 5)
-* [Hot NYC Companies](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#312-hot-nyc-companies) (Mar 2012
+* [Hot NYC Companies](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#312-hot-nyc-companies) (Mar 19)
 * [Startup Studio Sprint #2](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#mar-14-15-sprint-2) (March 14-15)
 * [Building a Brand](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#319-building-a-brand) (Mar 19)
 * [Raising Money](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#326-raising-money-lecture) (Mar 26)
