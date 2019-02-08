@@ -13,7 +13,7 @@ Crit: 6:10p- 7:25p*
 * [Introduction/ Be Great at Everything You Do](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#129-introduction-be-great-at-everything-you-do) (Jan 29)
 * [How To's](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#25-how-tos) (Feb 5)
 * [Building Your Company in NYC](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#212-building-your-company-in-nyc) (Feb 12)
-* [Startup Studio Sprint #1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#feb-13-14-sprint-1) (Feb 14-15)
+* [Startup Studio Sprint #1](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#feb-14-15-sprint-1) (Feb 14-15)
 * [Talking to Users](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#219-talking-to-users) (Feb 19)
 * [VC Pattern Matching](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#35-vc-pattern-matching) (Mar 5)
 * [Hot NYC Companies](https://github.com/cornelltech/startup-studio/wiki/Startup-Studio-Sessions-&-Syllabus#312-hot-nyc-companies) (Mar 19)
